@@ -8,7 +8,7 @@
 
 **A responsive real-estate discovery and property comparison experience.**
 
-[**Open Live Demo ↗**](https://kushagra69yr.github.io/EstateIQ/) ·
+[**Open Live Demo ↗**](https://kushagra69yr.github.io/estateiq/) ·
 [Source Code](https://github.com/kushagra69yr/EstateIQ) ·
 [Report an Issue](https://github.com/kushagra69yr/EstateIQ/issues)
 
@@ -50,7 +50,7 @@ The design uses a warm cream background, deep forest-green accents, large proper
 ## ✨ Product preview
 
 <div align="center">
-  <a href="https://kushagra69yr.github.io/EstateIQ/">
+  <a href="https://kushagra69yr.github.io/estateiq/">
     <img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=85" width="100%" alt="Contemporary residential property used to evoke the EstateIQ property discovery experience" />
   </a>
   <sub>Residential photography for the product concept. This is not a screenshot or a verified EstateIQ listing.</sub>
@@ -231,7 +231,7 @@ A GitHub Actions workflow is included at `.github/workflows/pages.yml`. It publi
 
 Expected project URL:
 
-**https://kushagra69yr.github.io/EstateIQ/**
+**https://kushagra69yr.github.io/estateiq/**
 
 The URL becomes available after GitHub Pages is configured and the first deployment completes.
 
