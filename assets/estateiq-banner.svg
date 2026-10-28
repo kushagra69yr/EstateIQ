@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">EstateIQ — Real estate, intelligently</title>
+<desc id="desc">A modern house illustration with a rising property value line, in a deep green and warm cream palette.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14271e"/><stop offset="1" stop-color="#294c39"/></linearGradient>
+  <linearGradient id="window" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e4eee0"/><stop offset="1" stop-color="#a9c6a9"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#dbe8d8" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/><rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+<circle cx="1040" cy="64" r="92" fill="#c3d9b8" opacity=".08"/><circle cx="1080" cy="300" r="140" fill="#d9ad62" opacity=".08"/>
+<g transform="translate(650 45)">
+  <path d="M34 130 190 20 348 130" fill="none" stroke="#f4f3e8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M66 112V256H315V112" fill="#f7f5ef" fill-opacity=".1" stroke="#f7f5ef" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="93" y="144" width="66" height="60" rx="4" fill="url(#window)"/><path d="M126 144V204M93 174H159" stroke="#294c39" stroke-width="4"/>
+  <rect x="204" y="144" width="66" height="60" rx="4" fill="url(#window)"/><path d="M237 144V204M204 174H270" stroke="#294c39" stroke-width="4"/>
+  <rect x="169" y="204" width="54" height="52" rx="3" fill="#d9ad62"/><circle cx="210" cy="230" r="2.5" fill="#294c39"/>
+  <path d="M20 257H363" stroke="#b6c9b1" stroke-opacity=".5" stroke-width="4" stroke-linecap="round"/>
+  <path d="M8 284 80 270 135 278 196 238 249 244 314 196 378 160" fill="none" stroke="#77e4c1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M8 284 80 270 135 278 196 238 249 244 314 196 378 160V304H8Z" fill="#77e4c1" opacity=".08"/>
+  <circle cx="378" cy="160" r="7" fill="#77e4c1"/>
+</g>
+<g font-family="Inter,Arial,sans-serif" fill="#f7f5ef">
+  <text x="68" y="88" font-size="17" letter-spacing="4" font-weight="700" fill="#b7d5b4">PROPERTY DISCOVERY • DEMO PROJECT</text>
+  <text x="64" y="166" font-size="66" font-weight="800" letter-spacing="-2">Estate<tspan fill="#9fd7a0">IQ</tspan></text>
+  <text x="68" y="207" font-size="24" fill="#e0e9dd">Real estate, considered intelligently.</text>
+  <text x="68" y="256" font-size="16" fill="#c1d0c2">Discover homes. Compare options. Explore price signals.</text>
+  <rect x="68" y="286" width="174" height="38" rx="19" fill="#d9ad62"/><text x="155" y="310" text-anchor="middle" font-size="13" font-weight="800" fill="#1c3326">EXPLORE ESTATEIQ ↗</text>
+</g>
+</svg>
